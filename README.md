@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![nluya's 42 stats](https://badge42.herokuapp.com/api/stats/nluya?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
+Link to my portfolio https://docs.google.com/document/d/1C60J1DP63k5UqoZnlQ6Nq17G00yniU5dQdPxt6nvHeI/edit
 
 <!--
 **Elmashack/Elmashack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
