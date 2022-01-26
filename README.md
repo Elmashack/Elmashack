@@ -3,7 +3,7 @@
 
 Link to my portfolio: https://docs.google.com/document/d/1C60J1DP63k5UqoZnlQ6Nq17G00yniU5dQdPxt6nvHeI/edit
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Elmasshack=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmashack)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Elmashack/Elmashack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
