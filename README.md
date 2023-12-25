@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![nluya's 42 stats](https://badge42.vercel.app/api/v2/cl3eqcalr000609muhol6ik8s/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
 
 
 
